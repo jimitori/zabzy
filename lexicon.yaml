@@ -5,7 +5,7 @@
 # zabzy dialect 3
 # all dialects have their scripts
 
-version: 1.0
+version: 1.0.0
 
 verbs:
   - proto-word: "ratúnex"
