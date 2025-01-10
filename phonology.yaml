@@ -6,7 +6,7 @@ sounds:
       zabzy-1: null
       zabzy-2: null
       zabzy-3: null
-      translit-0: "ĭ"
+      translit-0: "i"
       translit-1: null
       translit-2: null
       translit-3: null
@@ -22,7 +22,7 @@ sounds:
       zabzy-1: null
       zabzy-2: null
       zabzy-3: null
-      translit-0: "ĕ"
+      translit-0: "e"
       translit-1: null
       translit-2: null
       translit-3: null
@@ -171,6 +171,7 @@ sounds:
       translit-1: "r"
       translit-2: "r"
       translit-3: "l"
+  sound-changes:
     - proto-sound: "nk" # change happened before writing appeared
       zabzy-1: "ŋ"
       zabzy-2: "ŋ"
@@ -187,7 +188,6 @@ sounds:
       translit-1: "ng" # the consonant sequence [ng] is written as n'g
       translit-2: "ñ"
       translit-3: "ń"
-      # sound changes
     - proto-sound: "ʙ̥"
       zabzy-1: "pʂ"
       zabzy-2: "ʙ̥"

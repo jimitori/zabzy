@@ -1,0 +1,27 @@
+# zabzy grammar
+
+verbs:
+  tense:
+    nonpast:
+      - person: 1
+        root: "ng-root"
+        suffix: null
+      - person: 2
+        root: "ng-root"
+        suffix: "i"
+      - person: 3
+        root: "n-root"
+        suffix: "ru"
+    past:
+      - person: 1
+        root: "n-root"
+        suffix: "igy"
+      - person: 2
+        root: "n-root"
+        suffix: "ig"
+      - person: 3
+        root: "n-root"
+        suffix: "rug"
+
+adjectives:
+  suffix: "nu"

@@ -1,0 +1,40 @@
+Input word (translit-0): ratúnex
+  translit-1: ratung
+  translit-2: ratüñ
+  translit-3: rasunc
+
+Input word (translit-0): ratúso
+  translit-1: ratuso
+  translit-2: ratüso
+  translit-3: rasuśo
+
+Input word (translit-0): maránex
+  translit-1: marang
+  translit-2: marájñ
+  translit-3: maranc
+
+Input word (translit-0): márasó
+  translit-1: maraso
+  translit-2: májrasö
+  translit-3: maraśo
+
+Input word (translit-0): rafínex
+  translit-1: rafyng
+  translit-2: rafíañ
+  translit-3: racwinc
+
+Input word (translit-0): ráfisó
+  translit-1: rafso
+  translit-2: rájfsö
+  translit-3: racwśo
+
+Input word (translit-0): zavisí
+  translit-1: zavsy
+  translit-2: zavsía
+  translit-3: źawśi
+
+Input word (translit-0): gexér
+  translit-1: gkir
+  translit-2: gkéjr
+  translit-3: jcer
+
